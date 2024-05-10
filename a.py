@@ -1,2 +1,3 @@
-print("xx")
+int("xx")
 print("Hello")
+print("seongju")
