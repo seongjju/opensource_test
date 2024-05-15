@@ -1,1 +1,1 @@
-print("Ff")
+print("Hello, minseo")
